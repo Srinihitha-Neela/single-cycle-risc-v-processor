@@ -1,4 +1,4 @@
-# Single Cycle RISC-V Processor
+# 32-Bit Single Cycle RISC-V Processor
 
 A simplified **32-bit Single Cycle RISC-V Processor** implemented in **Verilog** and **SystemVerilog**. This project demonstrates the implementation of components including ALU, Register File, Program Counter, Instruction Memory, Control Unit, Immediate Generator, and Datapath Integration.
 
